@@ -1,0 +1,42 @@
+D:\Tài liệu đại học\Practise C#\QL_Nhasach\DAO\bin\Debug\DAO.dll
+D:\Tài liệu đại học\Practise C#\QL_Nhasach\DAO\bin\Debug\DAO.pdb
+D:\Tài liệu đại học\Practise C#\QL_Nhasach\DAO\bin\Debug\DTO.dll
+D:\Tài liệu đại học\Practise C#\QL_Nhasach\DAO\bin\Debug\DTO.pdb
+D:\Tài liệu đại học\Practise C#\QL_Nhasach\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\Tài liệu đại học\Practise C#\QL_Nhasach\DAO\obj\Debug\DAO.dll
+D:\Tài liệu đại học\Practise C#\QL_Nhasach\DAO\obj\Debug\DAO.pdb
+D:\Nhóm PTUDGD\QL_Nhasach\DAO\bin\Debug\DAO.dll
+D:\Nhóm PTUDGD\QL_Nhasach\DAO\bin\Debug\DAO.pdb
+D:\Nhóm PTUDGD\QL_Nhasach\DAO\bin\Debug\DTO.dll
+D:\Nhóm PTUDGD\QL_Nhasach\DAO\bin\Debug\DTO.pdb
+D:\Nhóm PTUDGD\QL_Nhasach\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\Nhóm PTUDGD\QL_Nhasach\DAO\obj\Debug\DAO.dll
+D:\Nhóm PTUDGD\QL_Nhasach\DAO\obj\Debug\DAO.pdb
+D:\Nhóm 4_41.01.103.029_41.01.103.013_41.01.104.028\Source\QL_Nhasach\DAO\bin\Debug\DAO.dll
+D:\Nhóm 4_41.01.103.029_41.01.103.013_41.01.104.028\Source\QL_Nhasach\DAO\bin\Debug\DAO.pdb
+D:\Nhóm 4_41.01.103.029_41.01.103.013_41.01.104.028\Source\QL_Nhasach\DAO\bin\Debug\DTO.dll
+D:\Nhóm 4_41.01.103.029_41.01.103.013_41.01.104.028\Source\QL_Nhasach\DAO\bin\Debug\DTO.pdb
+D:\Nhóm 4_41.01.103.029_41.01.103.013_41.01.104.028\Source\QL_Nhasach\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\Nhóm 4_41.01.103.029_41.01.103.013_41.01.104.028\Source\QL_Nhasach\DAO\obj\Debug\DAO.dll
+D:\Nhóm 4_41.01.103.029_41.01.103.013_41.01.104.028\Source\QL_Nhasach\DAO\obj\Debug\DAO.pdb
+D:\giao dien Hien\Nhóm 4_41.01.103.029_41.01.103.013_41.01.104.028\Source\QL_Nhasach\DAO\bin\Debug\DAO.dll
+D:\giao dien Hien\Nhóm 4_41.01.103.029_41.01.103.013_41.01.104.028\Source\QL_Nhasach\DAO\bin\Debug\DAO.pdb
+D:\giao dien Hien\Nhóm 4_41.01.103.029_41.01.103.013_41.01.104.028\Source\QL_Nhasach\DAO\bin\Debug\DTO.dll
+D:\giao dien Hien\Nhóm 4_41.01.103.029_41.01.103.013_41.01.104.028\Source\QL_Nhasach\DAO\bin\Debug\DTO.pdb
+D:\giao dien Hien\Nhóm 4_41.01.103.029_41.01.103.013_41.01.104.028\Source\QL_Nhasach\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\giao dien Hien\Nhóm 4_41.01.103.029_41.01.103.013_41.01.104.028\Source\QL_Nhasach\DAO\obj\Debug\DAO.dll
+D:\giao dien Hien\Nhóm 4_41.01.103.029_41.01.103.013_41.01.104.028\Source\QL_Nhasach\DAO\obj\Debug\DAO.pdb
+D:\software\qlns\Nhóm 3\Source\QL_Nhasach\DAO\bin\Debug\DAO.dll
+D:\software\qlns\Nhóm 3\Source\QL_Nhasach\DAO\bin\Debug\DAO.pdb
+D:\software\qlns\Nhóm 3\Source\QL_Nhasach\DAO\bin\Debug\DTO.dll
+D:\software\qlns\Nhóm 3\Source\QL_Nhasach\DAO\bin\Debug\DTO.pdb
+D:\software\qlns\Nhóm 3\Source\QL_Nhasach\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\software\qlns\Nhóm 3\Source\QL_Nhasach\DAO\obj\Debug\DAO.dll
+D:\software\qlns\Nhóm 3\Source\QL_Nhasach\DAO\obj\Debug\DAO.pdb
+C:\Users\PC\Documents\Visual Studio 2015\Projects\TEST3\Source\DAO\bin\Debug\DAO.dll
+C:\Users\PC\Documents\Visual Studio 2015\Projects\TEST3\Source\DAO\bin\Debug\DAO.pdb
+C:\Users\PC\Documents\Visual Studio 2015\Projects\TEST3\Source\DAO\bin\Debug\DTO.dll
+C:\Users\PC\Documents\Visual Studio 2015\Projects\TEST3\Source\DAO\bin\Debug\DTO.pdb
+C:\Users\PC\Documents\Visual Studio 2015\Projects\TEST3\Source\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\Visual Studio 2015\Projects\TEST3\Source\DAO\obj\Debug\DAO.dll
+C:\Users\PC\Documents\Visual Studio 2015\Projects\TEST3\Source\DAO\obj\Debug\DAO.pdb
