@@ -1,0 +1,4 @@
+C:\Users\PC\Documents\Visual Studio 2015\Projects\TEST3\Source\DTO\bin\Release\DTO.dll
+C:\Users\PC\Documents\Visual Studio 2015\Projects\TEST3\Source\DTO\bin\Release\DTO.pdb
+C:\Users\PC\Documents\Visual Studio 2015\Projects\TEST3\Source\DTO\obj\Release\DTO.dll
+C:\Users\PC\Documents\Visual Studio 2015\Projects\TEST3\Source\DTO\obj\Release\DTO.pdb
