@@ -271,3 +271,6 @@ C:\Users\PC\Documents\Visual Studio 2015\Projects\TEST3\Source\QL_Nhasach\bin\De
 C:\Users\PC\Documents\Visual Studio 2015\Projects\TEST3\Source\QL_Nhasach\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
 C:\Users\PC\Documents\Visual Studio 2015\Projects\TEST3\Source\QL_Nhasach\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
 C:\Users\PC\Documents\Visual Studio 2015\Projects\TEST3\Source\QL_Nhasach\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\software\IntroSoftware\TEST3\Source\QL_Nhasach\bin\Debug\QL_Nhasach.exe.config
+D:\software\IntroSoftware\TEST3\Source\QL_Nhasach\obj\Debug\QL_Nhasach.exe
+D:\software\IntroSoftware\TEST3\Source\QL_Nhasach\obj\Debug\QL_Nhasach.pdb
